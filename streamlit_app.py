@@ -13,8 +13,6 @@ import seaborn as sns
 import torch
 import torch.nn as nn
 import torch.optim as optim
-import plotly.graph_objects as go
-import plotly.express as px
 
 # Set page config
 st.set_page_config(
